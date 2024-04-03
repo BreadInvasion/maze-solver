@@ -1,2 +1,2 @@
-# maze-generator
-2D Maze Generator in Tkinter.
+# maze-solver
+2D Maze Solver in Tkinter.
